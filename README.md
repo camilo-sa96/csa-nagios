@@ -1,5 +1,4 @@
-#Contenedor de Nagios 
-#By Camilo Sepulveda Alfaro (CSA)
+#Contenedor de Nagios ~ By Camilo Sepulveda Alfaro (CSA)
 
 Proceso de Descarga y Compilacion de Imagen de Nagios.
 
